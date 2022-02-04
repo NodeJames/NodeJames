@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NodeJames
+- 👀 I’m interested in web design and development using next gen technology like the Jamstack.
+- 🌱 I’m currently learning Javascript, Reactjs, Figma, SQL
+- 💞️ I’m looking to collaborate on frontend designs via Figma
+- 📫 How to reach me: james@mlweb.co
